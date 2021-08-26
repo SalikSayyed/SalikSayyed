@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saliksayyed&label=Profile%20views&color=0e75b6&style=flat" alt="saliksayyed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saliksayyed" alt="saliksayyed" /></a> </p>
 
 - 🔭 I’m currently working on [Hey-linda App](https://github.com/heylinda/heylinda-app)
 
@@ -13,7 +12,7 @@
 
 - 👨‍💻 Checkout my projects available at [Linkedin](https://www.linkedin.com/in/salik-sayyed-aa284913a)
 
-- 📝 I  write articles on [Medium](https://medium.com/@sayyedsalik7)
+- 📝 I write articles on [Medium](https://medium.com/@sayyedsalik7)
 
 - 💬 Ask me about **React, React-Native, Typescript, Flutter, JavaScript, C++,Algorithms,DS,Python**
 
@@ -36,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saliksayyed&show_icons=true&locale=en" alt="saliksayyed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saliksayyed&" alt="saliksayyed" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saliksayyed" alt="saliksayyed" /></a> </p>
