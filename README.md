@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Hey-linda App](https://github.com/heylinda/heylinda-app)
 
-- 🌱 I’m currently learning **Front End development with Go, Machine Learning Segmentation Models**
+- 🌱 I’m currently learning **Front End development with Angular, Machine Learning Segmentation Models**
 
 - 👯 I’m looking to collaborate on [Kibana Front End](https://github.com/elastic/kibana)
 
