@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on [Kibana Front End](https://github.com/elastic/kibana)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/salik-sayyed-aa284913a](https://www.linkedin.com/in/salik-sayyed-aa284913a)
+- 👨‍💻 Checkout my projects available at [Linkedin](https://www.linkedin.com/in/salik-sayyed-aa284913a)
 
-- 📝 I regularly write articles on [https://medium.com/@sayyedsalik7](https://medium.com/@sayyedsalik7)
+- 📝 I  write articles on [Medium](https://medium.com/@sayyedsalik7)
 
 - 💬 Ask me about **React, React-Native, Typescript, Flutter, JavaScript, C++,Algorithms,DS,Python**
 
