@@ -18,7 +18,6 @@
 
 - 📫 How to reach me **sayyedsalik7@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalikSayyed)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
