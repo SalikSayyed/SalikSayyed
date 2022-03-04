@@ -18,7 +18,8 @@
 
 - 📫 How to reach me **sayyedsalik7@gmail.com**
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="salik-sayyed-aa284913a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/salik-sayyed-aa284913a?trk=profile-badge">Salik Sayyed</a></div>
+              
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/saliksayyed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="saliksayyed" height="30" width="40" /></a>
