@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saliksayyed&label=Profile%20views&color=0e75b6&style=flat" alt="saliksayyed" /> </p>
 
 
-- 🔭 I’m currently working on [Hey-linda App](https://github.com/heylinda/heylinda-app)
+- 🔭 I’m currently working in TCS.
 
-- 🌱 I’m currently learning **Front End development with Angular, Machine Learning Segmentation Models**
+- 🌱 I’m currently learning **Cloud technologies and DevOps**
 
 - 👯 I’m looking to collaborate on [Kibana Front End](https://github.com/elastic/kibana)
 
