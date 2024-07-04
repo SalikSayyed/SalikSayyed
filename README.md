@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salik Sayyed</h1>
-<h3 align="center">Passionate <small>', '.join(</small>[skill for skill in {"FrontEnd" : 5,"BackEnd" : 5,"ML" : 4,"Cloud" : 3,"Devops":3}]<small>)</small> Developer</h3>
+<h3 align="center">Passionate <small>', '.join(</small>[skill for skill in {"FrontEnd" : 4,"BackEnd" : 5,"ML" : 4,"Cloud" : 5,"Devops":3}]<small>)</small> Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saliksayyed&label=Profile%20views&color=0e75b6&style=flat" alt="saliksayyed" /> </p>
 
